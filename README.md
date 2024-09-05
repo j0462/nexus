@@ -32,7 +32,8 @@
 
 ## ERD DIAGRAM
 
-![image](https://github.com/user-attachments/assets/b0d69228-de32-4226-a105-a0f5f94710ed)
+![image](https://github.com/user-attachments/assets/f95d9049-9466-48e0-95cd-72e03e8c727d)
+
 
 
 ---
